@@ -32,6 +32,9 @@ The notebook will print loss values and final performance metrics like:
 Epoch 200, Loss: 1.1163
 AUC: 0.8391, AP: 0.8578
 ```
+Visual representation
+
+![Visual_results](image.png)
 
 ## Reference
 
